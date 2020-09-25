@@ -1,0 +1,17 @@
+.bg-nav{
+	background: pink;
+	margin: 5px; 
+	border-radius: 5px;
+} 
+.active-nav{
+	background: black;
+	color: white;
+} 
+.m-top{
+	margin-top: 10px
+}
+.card-border{
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+}
